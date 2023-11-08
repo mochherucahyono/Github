@@ -1,2 +1,1 @@
-# Github
 # Rangkuman Materi Arsikom
